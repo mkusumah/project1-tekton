@@ -1,0 +1,42 @@
+<html>
+<head>
+  <title>Tekton - Company Page</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      color: yellow;
+    }
+    h2 {
+      color: yellow;
+    }
+    p {
+      color: lightgray;
+    }
+    a {
+      color: yellow;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to Tekton</h1>
+
+  <h2>About Us</h2>
+  <p>Tekton makes high-quality tools for professionals and DIY builders.</p>
+
+  <h2>Our Mission</h2>
+  <p>We create reliable, affordable tools that help people build with confidence.</p>
+
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:info@tekton.com">info@tekton.com</a></p>
+  <p>Website: <a href="https://www.tekton.com" target="_blank">www.tekton.com</a></p>
+
+  <p><small>Last updated: <script>document.write(document.lastModified);</script></small></p>
+
+</body>
+</html>
